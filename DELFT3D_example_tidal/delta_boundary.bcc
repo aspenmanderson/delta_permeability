@@ -1,0 +1,182 @@
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Salinity             end A uniform'       unit '[ppt]'
+parameter            'Salinity             end B uniform'       unit '[ppt]'
+records-in-table     2
+ 0.0000000e+000  3.5000000e+001  3.5000000e+001
+ 1.2816000e+005  3.5000000e+001  3.5000000e+001
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phineg1     end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phineg1     end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi1        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi1        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi3        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi3        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi5        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi5        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi7        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi7        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'North               '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi9        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi9        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Salinity             end A uniform'       unit '[ppt]'
+parameter            'Salinity             end B uniform'       unit '[ppt]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 1.2816000e+005  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phineg1     end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phineg1     end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  5.6900000e-002  5.6900000e-002
+ 1.2816000e+005  5.6900000e-002  5.6900000e-002
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi1        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi1        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  1.0600000e-001  1.0600000e-001
+ 1.2816000e+005  1.0600000e-001  1.0600000e-001
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi3        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi3        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  1.2600000e-001  1.2600000e-001
+ 1.2816000e+005  1.2600000e-001  1.2600000e-001
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi5        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi5        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  1.1500000e-001  1.1500000e-001
+ 1.2816000e+005  1.1500000e-001  1.1500000e-001
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi7        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi7        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  6.8100000e-002  6.8100000e-002
+ 1.2816000e+005  6.8100000e-002  6.8100000e-002
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Stream              '
+time-function        'non-equidistant'
+reference-time       20200101
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Sediment phi9        end A uniform'       unit '[kg/m3]'
+parameter            'Sediment phi9        end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  2.8200000e-002  2.8200000e-002
+ 1.2816000e+005  2.8200000e-002  2.8200000e-002
